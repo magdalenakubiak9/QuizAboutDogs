@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Padding left for all radio button and checkbox questions -->
+    <dimen name="padding_radio_button">16dp</dimen>
+    <dimen name="padding_checkbox">16dp</dimen>
+
+    <!-- Padding top and bottom for all questions-->
+    <dimen name="questions_padding">16dp</dimen>
+
+    <!-- Margin top  for the submit button-->
+    <dimen name="button_margin">16dp</dimen>
+
+    <!--Font sizes-->
+    <dimen name="welcome_message_font">20sp</dimen>
+    <dimen name="question_font">20sp</dimen>
+    <dimen name="question_text_font">18sp</dimen>
+    <dimen name="question_answer_font">18sp</dimen>
+
+</resources>

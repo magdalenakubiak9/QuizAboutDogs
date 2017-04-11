@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Base application theme.
+    <style name="WelcomeMessageStyle" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="welcome_message_fontsize">@dimens/welcome_message_font</item>
+        <item name="welcome_message_font_color">@color/textColor</item>
+    </style> -->
+
+</resources>

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">All About Dogs Quiz!</string>
+
+    <string name = "welcome_message">Pick the right answer for each question and hit the \"submit\" button to check your results!</string>
+
+    <string name = "question_1">Question 1</string>
+    <string name = "question_2">Question 2</string>
+    <string name = "question_3">Question 3</string>
+    <string name = "question_4">Question 4</string>
+    <string name = "question_5">Question 5</string>
+    <string name = "question_6">Question 6</string>
+
+    <string name = "question_1_text">How many breeds of dogs are there in the world?</string>
+    <string name = "question_2_text">What breed of dog can you see on the picture?</string>
+    <string name = "question_3_text">Golden retriever, Coonhound and English Cocker Spaniel are examples of which type of the dog breeds?</string>
+    <string name = "question_4_text">What products a dog should never eat?</string>
+    <string name = "question_5_text">What is a dog\'s normal body temperature?</string>
+    <string name = "question_6_text">What it the least developed dog\'s sense?</string>
+
+    <string name = "question_1_answer_1">250</string>
+    <string name = "question_1_answer_2">340</string>
+    <string name = "question_1_answer_3">390</string>
+    <string name = "question_3_answer_1">Companion dogs</string>
+    <string name = "question_3_answer_2">Working dogs</string>
+    <string name = "question_3_answer_3">Hunting dogs</string>
+    <string name = "question_4_answer_1">Chocolate</string>
+    <string name = "question_4_answer_2">Carrots</string>
+    <string name = "question_4_answer_3">Grapes</string>
+    <string name = "question_4_answer_4">Mushrooms</string>
+    <string name = "question_5_answer_1">36,6&#x2103; / 98 F  </string>
+    <string name = "question_5_answer_2">38,4&#x2103; / 101 F </string>
+    <string name = "question_5_answer_3">40&#x2103; / 105 F</string>
+    <string name = "question_6_answer_1">Eyesight</string>
+    <string name = "question_6_answer_2">Smell</string>
+    <string name = "question_6_answer_3">Hearing</string>
+
+    <string name = "edittext_hint">Breed name</string>
+    <string name = "submit_button">Submit</string>
+    <string name = "question2Answer1">boxer</string>
+    <string name = "question2Answer2">Boxer</string>
+    <string name = "question2Answer3">bokser</string>
+    <string name = "question2Answer4">Bokser</string>
+
+</resources>
