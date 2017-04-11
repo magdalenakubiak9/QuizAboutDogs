@@ -93,6 +93,7 @@ public class MainActivity extends AppCompatActivity {
         else {
             Toast.makeText(this, "You got " + score + " out of 6 points! Better read more about the dogs :)", Toast.LENGTH_LONG).show();
         }
+        //make the score 0 again
         score = 0;
     }
 }

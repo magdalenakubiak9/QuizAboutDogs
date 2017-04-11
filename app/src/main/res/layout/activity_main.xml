@@ -336,8 +336,4 @@
             android:text="@string/submit_button" />
 
     </LinearLayout>
-    <View
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-    </View>
 </ScrollView>
